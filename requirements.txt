@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlmodel
+requests
+beautifulsoup4
+gradio
+pandas
+matplotlib
+wordcloud
+python-multipart
